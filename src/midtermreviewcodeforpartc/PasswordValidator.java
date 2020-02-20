@@ -9,7 +9,8 @@ import java.util.Scanner;
 
 /**
  *
- * @author User raman
+ * @author User ramanjot
+ age : 18 years
  */
 public class PasswordValidator {
     protected User users[] = new User[100];//room for 100 online players!
